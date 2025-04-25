@@ -1,5 +1,6 @@
 # Talabia Chess
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBzNGJ4MGY4cGFrM2pubHlqYTl3MnRpbjUzYW9nZzlyeXUybXAwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EQebCHpvHYERG1iHfW/giphy.gif))
+
 Talabia Chess is a variant of chess played on a 7x6 board.
 
 ## Instructions
