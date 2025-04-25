@@ -1,5 +1,12 @@
 # Talabia Chess
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 Talabia Chess is a variant of chess played on a 7x6 board.
+
+## Instructions
+These instructions assume that the user already has Java installed on their respective operating system. Instructions are the same for Windows, Mac and Linux operating systems.
+
+If you have JavaSDK installed, run the command `javac Game.java` to compile the files. Then, run `java Game` to run the game.
+If you do not have JavaSDK installed, download TalabiaChessCompiled.zip and run `java Game` to run the game.
 
 ## Pieces
 **Point** ⬆️
